@@ -9,4 +9,4 @@ Documentation at https://docs.cloudplugs.com/rest-java/html
 
 See the LICENSE file for further details.
 
-Copyright 2014 CloudPlugs Inc.  http://www.cloudplugs.com
+Copyright 2015 CloudPlugs Inc.  http://www.cloudplugs.com
